@@ -1,4 +1,4 @@
-# Functional Programming in Haskell
+# Functional Programming in Haskell (VU MIF)
 
 This repository contains laboratory assignments for the university course "Funkcinis Programavimas" (Functional Programming). The work demonstrates implementation of various algorithms and data structures using the Haskell programming language.
 
